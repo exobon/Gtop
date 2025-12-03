@@ -1,0 +1,5 @@
+{
+  "name": "StreamCommand",
+  "description": "A self-hosted control panel to automate 24/7 YouTube live streams using Puppeteer, Xvfb, and FFmpeg via a VPS.",
+  "requestFramePermissions": []
+}
